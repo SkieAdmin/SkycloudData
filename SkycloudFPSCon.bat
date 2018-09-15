@@ -1,0 +1,1 @@
+start rbxfpsunlocker.exe --console
